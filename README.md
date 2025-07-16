@@ -34,11 +34,11 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
       <td align="center" width="120">
         <img src="https://i.postimg.cc/bvHCkcbw/download.png" height="60" alt="TestRail" /><br/>TestRail
       </td>
-    </tr>
-    <tr>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="JIRA" /><br/>JIRA
       </td>
+    </tr>
+    <tr>
       <td align="center" width="120">
         <img src="https://i.postimg.cc/ryQpgDcS/download-1.png" height="60" alt="STR" /><br/>STR
       </td>
@@ -48,16 +48,12 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
       <td align="center" width="120">
         <img src="https://i.postimg.cc/WzcT1qBH/images.jpg" height="60" alt="DevTools" /><br/>DevTools
       </td>
-    </tr>
-    <tr>
       <td align="center" width="120">
         <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" height="60" alt="Salesforce" /><br/>Salesforce
       </td>
       <td align="center" width="120">
         <img src="https://i.postimg.cc/Kjpf5tm9/download-2.png" height="60" alt="STD" /><br/>STD
       </td>
-      <td></td>
-      <td></td>
     </tr>
   </table>
 </div>
