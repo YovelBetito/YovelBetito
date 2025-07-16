@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)](https://github.com/YovelBetito)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yovel_betito/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yovel-betito-2298722a3/)
-### 👨‍💻 Happy to see you here!
+### 👨‍💻 Happy to see you here! 
 
 I'm a Student QA Manual & Automation student at **Gal Matlon**,  
 and also studying **Salesforce testing** at **John Bryce**.
@@ -12,6 +12,11 @@ and also studying **Salesforce testing** at **John Bryce**.
 Former police detective, now passionate about tech, testing, and development.  
 Interested in drones 🚁, automation ⚙️, and coding 💻.
 
+<!-- WhatsApp Floating Button (Center Right Fixed) -->
+<a href="https://wa.me/972505885070?text=שלום%20יובל%20בטיטו%2C%20אשמח%20לראות%20את%20הקו״ח%20שלך%20לתפקיד..." 
+   target="_blank" id="whatsapp-float">
+  <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp">
+</a>
 ---
 ### 🙃 Rapidfire
   <td>
@@ -70,8 +75,3 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
     </tr>
   </table>
 </div>  
-<!-- WhatsApp Floating Button (Center Right Fixed) -->
-<a href="https://wa.me/972505885070?text=שלום%20יובל%20בטיטו%2C%20אשמח%20לראות%20את%20הקו״ח%20שלך%20לתפקיד..." 
-   target="_blank" id="whatsapp-float">
-  <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp">
-</a>
