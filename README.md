@@ -17,7 +17,7 @@ Former police detective, now passionate about tech, testing, and development.
 Interested in drones 🚁, automation ⚙️, and coding 💻.
 
 ---
-<tr>
+### 🙃 Rapidfire
   <td>
     <ul class="rapidfire-list">
       <li>🛠️ I'm currently working on this page 😜</li>
