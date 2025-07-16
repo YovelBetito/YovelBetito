@@ -11,6 +11,7 @@ and also studying **Salesforce testing** at **John Bryce**.
 
 Former police detective, now passionate about tech, testing, and development.  
 Interested in drones 🚁, automation ⚙️, and coding 💻.
+
 ---
 ### 🙃 Rapidfire
   <td>
