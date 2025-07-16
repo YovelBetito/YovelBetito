@@ -10,7 +10,9 @@
 
 ### 👨‍💻 Happy to see you here!
 
-I'm a QA Manual & Automation Tester in training  
+I'm a QA Manual & Automation student at **Gal Matlon**,  
+and also studying **Salesforce testing** at **John Bryce**.
+
 Former police detective, now passionate about tech, testing, and development.  
 Interested in drones 🚁, automation ⚙️, and coding 💻.
 
