@@ -59,7 +59,6 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
       margin-bottom: 15px;
       font-size: 15px;
     }
-  </style>
 </head>
 <body>
   <table class="rapidfire-table">
