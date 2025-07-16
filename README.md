@@ -46,3 +46,6 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" hei
+<td align="center" width="120">
+  <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" height="40" alt="Salesforce" /><br/>Salesforce
+</td>
