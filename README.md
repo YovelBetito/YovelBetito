@@ -70,8 +70,35 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
     </tr>
   </table>
 </div>  
-<!-- WhatsApp Floating Button (Center Right) -->
+<!-- WhatsApp Floating Button (Center Right Fixed) -->
 <a href="https://wa.me/972505885070?text=שלום%20יובל%20בטיטו%2C%20אשמח%20לראות%20את%20הקו״ח%20שלך%20לתפקיד..." 
    target="_blank" id="whatsapp-float">
   <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp">
 </a>
+
+<style>
+  #whatsapp-float {
+    position: fixed;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    z-index: 9999;
+    cursor: pointer;
+    background-color: white;
+    padding: 8px;
+    border-radius: 50%;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.25);
+    transition: all 0.3s ease;
+  }
+
+  #whatsapp-float:hover {
+    transform: translateY(-50%) scale(1.1);
+    box-shadow: 0 0 16px rgba(0, 255, 0, 0.5);
+  }
+
+  #whatsapp-float img {
+    width: 55px;
+    height: 55px;
+    display: block;
+  }
+</style>
