@@ -63,7 +63,11 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
   <a href="mailto:betito.yovel270@gmil.com" target="_blank">
     <img src="https://i.postimg.cc/t4gBDsgY/images.png" alt="Email Icon" width="110"
   </a>
-</div>
+    <!-- Telephone Icon -->
+    <a href="telephone:0505885070" target="_blank">
+    <img src="https://i.postimg.cc/639SJtVP/images-1.png" alt="Telephone Icon" width="110"
+      </a>
+      </div>
 
 <h2>Languages and Tools</h2>
 
