@@ -46,7 +46,7 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
         <img src="https://i.postimg.cc/zfhCR9LP/2025-07-16-14-13-36.png" height="60" alt="PM" /><br/>PM
       </td>
       <td align="center" width="120">
-        <img src="https://i.postimg.cc/RVrNWN19/2025-07-16-14-15-26.png" height="60" alt="DevTools" /><br/>DevTools
+        <img src="https://i.postimg.cc/WzcT1qBH/images.jpg" height="60" alt="DevTools" /><br/>DevTools
       </td>
       <td align="center" width="120">
         <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" height="60" alt="Salesforce" /><br/>Salesforce
