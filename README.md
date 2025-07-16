@@ -60,7 +60,7 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
   </a>
   <!-- Email Icon -->
   <a href="mailto:betito.yovel270@gmil.com" target="_blank">
-    <img src="https://i.postimg.cc/6qKr5BdB/email-icon.jpg" alt="Email Icon">
+    <img src="https://i.postimg.cc/t4gBDsgY/images.png" alt="Email Icon">
   </a>
 </div>
 <h2>Languages and Tools</h2>
