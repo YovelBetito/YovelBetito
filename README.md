@@ -56,7 +56,7 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
    <table>
     <tr>
   <!-- WhatsApp Icon -->
-  <a href="https://wa.me/972505885070?text=שלום%20יובל%20בטיטו%2C%20אשמח%20לראות%20את%20הקו״ח%20שלך%20לתפקיד..." 
+  <td href="https://wa.me/972505885070?text=שלום%20יובל%20בטיטו%2C%20אשמח%20לראות%20את%20הקו״ח%20שלך%20לתפקיד..." 
      target="_blank">
     <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp">
   </a>
