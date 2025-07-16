@@ -41,7 +41,9 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
       <td align="center" width="120">
         <img src="https://i.postimg.cc/bvHCkcbw/download.png" height="60" alt="TestRail" /><br/>TestRail
       </td>
-      <td align="center" width="120">
+       <td align="center" width="120">
+        <img src="https://i.postimg.cc/NMYf8f7V/download.png" height="60" alt="Salesforse" /><br/>Salesfores
+      </td>      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="JIRA" /><br/>JIRA
       <td align="center" width="120">
         <img src="https://i.postimg.cc/WzcT1qBH/images.jpg" height="60" alt="DevTools" /><br/>DevTools
