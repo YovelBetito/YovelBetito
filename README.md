@@ -23,10 +23,7 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
   </td>
   <td></td> <!-- תא ריק בצד ימין -->
 </tr>
-❓<b><u>Why did i Choose QA?</b></u>
-<li><p><strong>Why did I choose QA (Quality Assurance)?</strong></p>
-
-<p>
+<p><b><u>❓Why did I choose QA?</u></b></p>
 I chose <strong>QA</strong> because I see it as the perfect combination of 
 <strong>critical thinking</strong>, <strong>technical ability</strong>, 
 and the opportunity to play a <strong>key role</strong> in delivering a 
