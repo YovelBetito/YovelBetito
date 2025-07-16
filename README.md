@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 Glad to see you here!
+### 👨‍💻 Happy to see you here!
 
 I'm a QA Manual & Automation Tester in training  
 Former police detective, now passionate about tech, testing, and development.  
