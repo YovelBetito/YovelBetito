@@ -59,11 +59,11 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
   <td href="https://wa.me/972505885070?text=שלום%20יובל%20בטיטו%2C%20אשמח%20לראות%20את%20הקו״ח%20שלך%20לתפקיד..." 
      target="_blank">
     <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp">
-  </a>
+  </td>
   <!-- Email Icon -->
-  <a href="mailto:betito.yovel270@gmil.com" target="_blank">
+  <td href="mailto:betito.yovel270@gmil.com" target="_blank">
     <img src="https://i.postimg.cc/t4gBDsgY/images.png" alt="Email Icon" width="110"
-  </a>
+  </td>
 <a href="tel:+972505885070" 
   <img src="https://img.icons8.com/color/96/phone.png" alt="Telephone Icon" width="95">
 </table>
