@@ -51,7 +51,7 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
   <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp">
 </a>
 <a href="mailto:betito.yovel270@gmil.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_Icon.png/600px-Mail_Icon.png" alt="Email Icon" width="40" height="40">
+  <img src="https://i.postimg.cc/6qKr5BdB/email-icon.jpg" alt="Email Icon" width="40" height="40">
 </a>
 </div>
 </body>
