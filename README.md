@@ -35,7 +35,7 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
         <img src="https://cdn-icons-png.flaticon.com/128/1055/1055687.png" height="60" alt="STD" /><br/>STD
       </td>
       <td align="center" width="120">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/TestRail_Logo.png" height="60" alt="TestRail" /><br/>TestRail
+        <img src="["https://upload.wikimedia.org/wikipedia/commons/e/e9/TestRail_Logo.png" height="60" alt="TestRail" /><br/>TestRail
       </td>
     </tr>
     <tr>
