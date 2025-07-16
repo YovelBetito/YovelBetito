@@ -17,5 +17,44 @@ Former police detective, now passionate about tech, testing, and development.
 Interested in drones 🚁, automation ⚙️, and coding 💻.
 
 ---
-### 👨‍💻 Languages and Tools:
+<h2>Languages and Tools</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML" /><br/>HTML
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS" /><br/>CSS
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn-icons-png.flaticon.com/128/11325/11325385.png" height="60" alt="STP" /><br/>STP
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn-icons-png.flaticon.com/128/1055/1055687.png" height="60" alt="STD" /><br/>STD
+      </td>
+      <td align="center" width="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/TestRail_Logo.png" height="60" alt="TestRail" /><br/>TestRail
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="JIRA" /><br/>JIRA
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn-icons-png.flaticon.com/128/857/857681.png" height="60" alt="STR" /><br/>STR
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn-icons-png.flaticon.com/128/3039/3039381.png" height="60" alt="PM" /><br/>PM
+      </td>
+      <td align="center" width="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Chrome_DevTools_Logo.png" height="60" alt="DevTools" /><br/>DevTools
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" height="60" alt="Salesforce" /><br/>Salesforce
+      </td>
+    </tr>
+  </table>
+</div>
 
