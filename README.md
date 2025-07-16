@@ -62,10 +62,6 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
   </style>
 </head>
 <body>
-
-<div class="rapidfire-container">
-  <div class="rapidfire-title">Rapidfire</div>
-
   <table class="rapidfire-table">
     <tr>
       <td>
@@ -79,7 +75,6 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
     </tr>
   </table>
 </div>
-
 </body>
 </html>
 ---
