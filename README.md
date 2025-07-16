@@ -30,6 +30,7 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
       </td>
       <td align="center" width="120">
         <img src="https://i.postimg.cc/qRtdLvGG/stp-logo-stp-letter-stp-letter-logo-design-initials-stp-logo-linked-with-circle-uppercase-monogram-l.jpg" height="60" alt="STP" /><br/>STP
+      </td>
         <<td align="center" width="120">
   <img src="https://i.postimg.cc/qRtdLvGG/stp-logo-stp-letter-stp-letter-logo-design-initials-stp-logo-linked-with-circle-uppercase-monogram-l.jpg" height="60" alt="STD" /><br/>STD
 </td>
