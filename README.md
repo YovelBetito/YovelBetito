@@ -11,12 +11,6 @@ and also studying **Salesforce testing** at **John Bryce**.
 
 Former police detective, now passionate about tech, testing, and development.  
 Interested in drones 🚁, automation ⚙️, and coding 💻.
-
-<!-- WhatsApp Floating Button (Center Right Fixed) -->
-<a href="https://wa.me/972505885070?text=שלום%20יובל%20בטיטו%2C%20אשמח%20לראות%20את%20הקו״ח%20שלך%20לתפקיד..." 
-   target="_blank" id="whatsapp-float">
-  <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp">
-</a>
 ---
 ### 🙃 Rapidfire
   <td>
@@ -49,7 +43,7 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
 <strong>full picture</strong> – from <strong>code</strong> to 
 <strong>user experience</strong>.
 </p>
-<li>📄<b>Job offer Click Icon WhatsApp?</b></li>
+<li>📄<b>Job offer? Click Icon WhatsApp!</b></li>
 <!-- WhatsApp Floating Button (Center Right Fixed) -->
 <a href="https://wa.me/972505885070?text=שלום%20יובל%20בטיטו%2C%20אשמח%20לראות%20את%20הקו״ח%20שלך%20לתפקיד..." 
    target="_blank" id="whatsapp-float">
