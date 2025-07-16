@@ -51,18 +51,46 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
 ---
 <li>📄<b>Job offer for me? Click Icon WhatsApp Or Email and Telephone!</b></li>
 <!-- WhatsApp Floating Button (Center Right Fixed) --> 
-  <!-- Floating Icons -->
+<!-- Floating Icon Styles -->
+<style>
+  #floating-icons {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    z-index: 1000;
+  }
+
+  #floating-icons img {
+    width: 60px;   /* גובה ורוחב אחידים */
+    height: 60px;
+    object-fit: cover;
+    border-radius: 10px; /* אפשר להסיר אם לא רוצים עיגול או פינות מעוגלות */
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    transition: transform 0.2s ease;
+  }
+
+  #floating-icons img:hover {
+    transform: scale(1.05);
+  }
+</style>
+
+<!-- Floating Icons -->
 <div id="floating-icons">
   <!-- WhatsApp Icon -->
   <a href="https://wa.me/972505885070?text=שלום%20יובל%20בטיטו%2C%20אשמח%20לראות%20את%20הקו״ח%20שלך%20לתפקיד..." 
      target="_blank">
     <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp">
   </a>
+
   <!-- Email Icon -->
   <a href="mailto:betito.yovel270@gmil.com" target="_blank">
     <img src="https://i.postimg.cc/t4gBDsgY/images.png" alt="Email Icon">
   </a>
 </div>
+
 <h2>Languages and Tools</h2>
 
 <div align="center">
