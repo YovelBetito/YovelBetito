@@ -44,6 +44,8 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
 <strong>full picture</strong> – from <strong>code</strong> to 
 <strong>user experience</strong>.
 </p>
+  
+---
 <li>📄<b>Job offer for me? Click Icon WhatsApp!</b></li>
 <!-- WhatsApp Floating Button (Center Right Fixed) --> 
   <!-- Floating Icons -->
