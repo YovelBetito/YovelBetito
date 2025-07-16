@@ -50,8 +50,8 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
    target="_blank" id="whatsapp-float">
   <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp">
 <a href="mailto:betito.yovel270@gmil.com" target="_blank">
-  <img src="https://i.postimg.cc/wjWhBFgB/download.jpg"
-  <i class="fas fa-envelope"></i> שלח לי מייל
+  <img src="https://i.postimg.cc/nzKrXcB1/download-1.jpg"  
+<i class="fas fa-envelope"></i>
 </a>
 </a>
 </div>
