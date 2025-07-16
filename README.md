@@ -17,66 +17,90 @@ Former police detective, now passionate about tech, testing, and development.
 Interested in drones 🚁, automation ⚙️, and coding 💻.
 
 ---
-<h2 style="text-align: center;">Languages and Tools</h2>
+<style>
+  .tools-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    background: #f9f9f9;
+    padding: 40px 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    max-width: 1000px;
+    margin: auto;
+  }
 
-<div style="
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-  gap: 20px;
-  justify-items: center;
-  padding: 20px;
-  max-width: 800px;
-  margin: auto;
-">
+  .tool-box {
+    background: white;
+    border-radius: 16px;
+    padding: 20px 10px;
+    width: 110px;
+    height: 120px;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
 
-  <div style="text-align: center; border: 1px solid #ccc; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML" />
-    <div><strong>HTML</strong></div>
+  .tool-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+    background: linear-gradient(135deg, #e8f0ff, #ffffff);
+  }
+
+  .tool-box img {
+    height: 45px;
+    margin-bottom: 10px;
+  }
+
+  .tool-box span {
+    font-weight: bold;
+    font-size: 14px;
+    color: #333;
+  }
+</style>
+
+<h2 style="text-align:center; font-family: sans-serif; margin-top: 40px;">🚀 Languages and Tools</h2>
+
+<div class="tools-container">
+  <div class="tool-box">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
+    <span>HTML</span>
   </div>
-
-  <div style="text-align: center; border: 1px solid #ccc; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS" />
-    <div><strong>CSS</strong></div>
+  <div class="tool-box">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
+    <span>CSS</span>
   </div>
-
-  <div style="text-align: center; border: 1px solid #ccc; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://i.postimg.cc/qRtdLvGG/stp-logo-stp-letter-stp-letter-logo-design-initials-stp-logo-linked-with-circle-uppercase-monogram-l.jpg" height="60" alt="STP" />
-    <div><strong>STP</strong></div>
+  <div class="tool-box">
+    <img src="https://i.postimg.cc/qRtdLvGG/stp-logo-stp-letter-stp-letter-logo-design-initials-stp-logo-linked-with-circle-uppercase-monogram-l.jpg" alt="STP" />
+    <span>STP</span>
   </div>
-
-  <div style="text-align: center; border: 1px solid #ccc; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://i.postimg.cc/bvHCkcbw/download.png" height="60" alt="TestRail" />
-    <div><strong>TestRail</strong></div>
+  <div class="tool-box">
+    <img src="https://i.postimg.cc/bvHCkcbw/download.png" alt="TestRail" />
+    <span>TestRail</span>
   </div>
-
-  <div style="text-align: center; border: 1px solid #ccc; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="JIRA" />
-    <div><strong>JIRA</strong></div>
+  <div class="tool-box">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="JIRA" />
+    <span>JIRA</span>
   </div>
-
-  <div style="text-align: center; border: 1px solid #ccc; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://i.postimg.cc/ryQpgDcS/download-1.png" height="60" alt="STR" />
-    <div><strong>STR</strong></div>
+  <div class="tool-box">
+    <img src="https://i.postimg.cc/ryQpgDcS/download-1.png" alt="STR" />
+    <span>STR</span>
   </div>
-
-  <div style="text-align: center; border: 1px solid #ccc; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://i.postimg.cc/zfhCR9LP/2025-07-16-14-13-36.png" height="60" alt="PM" />
-    <div><strong>PM</strong></div>
+  <div class="tool-box">
+    <img src="https://i.postimg.cc/zfhCR9LP/2025-07-16-14-13-36.png" alt="PM" />
+    <span>PM</span>
   </div>
-
-  <div style="text-align: center; border: 1px solid #ccc; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://i.postimg.cc/WzcT1qBH/images.jpg" height="60" alt="DevTools" />
-    <div><strong>DevTools</strong></div>
+  <div class="tool-box">
+    <img src="https://i.postimg.cc/WzcT1qBH/images.jpg" alt="DevTools" />
+    <span>DevTools</span>
   </div>
-
-  <div style="text-align: center; border: 1px solid #ccc; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" height="60" alt="Salesforce" />
-    <div><strong>Salesforce</strong></div>
+  <div class="tool-box">
+    <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" alt="Salesforce" />
+    <span>Salesforce</span>
   </div>
-
-  <div style="text-align: center; border: 1px solid #ccc; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://i.postimg.cc/Kjpf5tm9/download-2.png" height="60" alt="STD" />
-    <div><strong>STD</strong></div>
+  <div class="tool-box">
+    <img src="https://i.postimg.cc/Kjpf5tm9/download-2.png" alt="STD" />
+    <span>STD</span>
   </div>
-
 </div>
