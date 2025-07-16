@@ -77,7 +77,6 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
 </div>
 </body>
 </html>
----
 <h2>Languages and Tools</h2>
 
 <div align="center">
