@@ -51,6 +51,10 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
       <td align="center" width="120">
         <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" height="60" alt="Salesforce" /><br/>Salesforce
       </td>
-    </tr>
+       </td>
+      <td align="center" width="120">
+        <img src="https://i.postimg.cc/Kjpf5tm9/download-2.png" height="60" alt="STD" /><br/>STD
+      </td>  
+  </tr>
   </table>
 </div>
