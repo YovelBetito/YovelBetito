@@ -30,13 +30,12 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
       </td>
       <td align="center" width="120">
         <img src="https://cdn-icons-png.flaticon.com/128/11325/11325385.png" height="60" alt="STP" /><br/>STP
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/128/1055/1055687.png" height="60" alt="STD" /><br/>STD
-      </td>
-      <td align="center" width="120">
-        <img src=""https://i.postimg.cc/bvHCkcbw/download.png" height="60" alt="TestRail" /><br/>TestRail
-      </td>
+      <<td align="center" width="120">
+  <img src="https://cdn-icons-png.flaticon.com/128/1055/1055687.png" height="60" alt="STD" /><br/>STD
+</td>
+<td align="center" width="120">
+  <img src="https://i.postimg.cc/bvHCkcbw/download.png" height="60" alt="TestRail" /><br/>TestRail
+</td>
     </tr>
     <tr>
       <td align="center" width="120">
