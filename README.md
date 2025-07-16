@@ -61,7 +61,7 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
 
   <!-- Email Icon -->
   <a href="mailto:betito.yovel270@gmil.com" target="_blank">
-    <img src="https://i.postimg.cc/t4gBDsgY/images.png" alt="Email Icon" width="85"
+    <img src="https://i.postimg.cc/t4gBDsgY/images.png" alt="Email Icon" width="96"
   </a>
 </div>
 
