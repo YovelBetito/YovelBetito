@@ -62,7 +62,7 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
   </td>
   <!-- Email Icon -->
   <td href="mailto:betito.yovel270@gmil.com" target="_blank">
-    <img src="https://i.postimg.cc/t4gBDsgY/images.png" alt="Email Icon" width="110"
+    <img src="https://i.postimg.cc/NfvkFYPC/download.jpg" alt="Email Icon" width="110"
   </td>
 <td href="tel:+972505885070" 
   <img src="https://i.postimg.cc/t4gBDsgY/images.png" alt="Telephone Icon" width="95">
