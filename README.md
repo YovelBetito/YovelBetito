@@ -64,7 +64,7 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
     <img src="https://i.postimg.cc/t4gBDsgY/images.png" alt="Email Icon" width="110"
   </a>
   <!-- Telephone Icon -->
- <a href="tel:+972505885070">
+ <a href="tel:+972505885070" class="button-link">
   <img src="https://img.icons8.com/color/96/phone.png" alt="Telephone Icon" width="95">
       </a>
       </div>
