@@ -28,40 +28,6 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
       margin: 40px auto;
       font-family: Arial, sans-serif;
     }
-
-    .rapidfire-title {
-      font-size: 20px;
-      font-weight: bold;
-      margin-bottom: 10px;
-      border-bottom: 1px solid #ccc;
-      padding-bottom: 5px;
-    }
-
-    .rapidfire-table {
-      width: 100%;
-      border: 1px solid #ddd;
-      border-collapse: collapse;
-    }
-
-    .rapidfire-table td {
-      border: 1px solid #ddd;
-      padding: 15px;
-      vertical-align: top;
-    }
-
-    .rapidfire-list {
-      list-style: none;
-      padding-left: 0;
-      margin: 0;
-    }
-
-    .rapidfire-list li {
-      margin-bottom: 15px;
-      font-size: 15px;
-    }
-</head>
-<body>
-  <table class="rapidfire-table">
     <tr>
       <td>
        <ul class="rapidfire-list">
