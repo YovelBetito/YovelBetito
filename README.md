@@ -65,7 +65,8 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
     <img src="https://i.postimg.cc/t4gBDsgY/images.png" alt="Email Icon" width="110"
   </td>
 <td href="tel:+972505885070" 
-  <img src="https://img.icons8.com/color/96/phone.png" alt="Telephone Icon" width="95">
+  <img src="https://i.postimg.cc/t4gBDsgY/images.png" alt="Telephone Icon" width="95">
+</td>
 </table>
     </tr>
    </a>
