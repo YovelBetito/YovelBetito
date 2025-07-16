@@ -23,6 +23,8 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
   </td>
   <td></td> <!-- תא ריק בצד ימין -->
 </tr>
+
+---
 <h3><u>❓Why did I choose QA?</u></h3>
 I chose <strong>QA</strong> because I see it as the perfect combination of 
 <strong>critical thinking</strong>, <strong>technical ability</strong>, 
