@@ -58,13 +58,12 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
      target="_blank">
     <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp">
   </a>
-
   <!-- Email Icon -->
   <a href="mailto:betito.yovel270@gmil.com" target="_blank">
     <img src="https://i.postimg.cc/t4gBDsgY/images.png" alt="Email Icon" width="110"
   </a>
   <!-- Telephone Icon -->
- <a href="tel:+972505885070" class="button-link">
+ <a href="tel:+972505885070" class="button-link">call me</a>
   <img src="https://img.icons8.com/color/96/phone.png" alt="Telephone Icon" width="95">
       </a>
       </div>
