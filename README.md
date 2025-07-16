@@ -43,7 +43,7 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
         <img src="https://i.postimg.cc/ryQpgDcS/download-1.png" height="60" alt="STR" /><br/>STR
       </td>
       <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/128/3039/3039381.png" height="60" alt="PM" /><br/>PM
+        <img src="https://i.postimg.cc/Pf0dS9NM/project-management-icon-simple-element-illustration-hub-sp-spokes-gear-solid-concept-symbol-design-v.web" height="60" alt="PM" /><br/>PM
       </td>
       <td align="center" width="120">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Chrome_DevTools_Logo.png" height="60" alt="DevTools" /><br/>DevTools
