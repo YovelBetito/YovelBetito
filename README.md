@@ -10,7 +10,7 @@
 I'm a Student QA Manual & Automation student at **Gal Matlon**,  
 and also studying **Salesforce testing** at **John Bryce**.
 
-Former police detective, now passionate about tech, testing, and development.  
+former police detective, now passionate about tech, testing, and development.  
 Interested in drones 🚁, automation ⚙️, and coding 💻.
 
 ---
