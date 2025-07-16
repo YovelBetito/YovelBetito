@@ -29,7 +29,7 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS" /><br/>CSS
       </td>
       <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/128/11325/11325385.png" height="60" alt="STP" /><br/>STP
+        <img src="https://i.postimg.cc/qRtdLvGG/stp-logo-stp-letter-stp-letter-logo-design-initials-stp-logo-linked-with-circle-uppercase-monogram-l.jpg" height="60" alt="STP" /><br/>STP
       <<td align="center" width="120">
   <img src="https://i.postimg.cc/qRtdLvGG/stp-logo-stp-letter-stp-letter-logo-design-initials-stp-logo-linked-with-circle-uppercase-monogram-l.jpg" height="60" alt="STD" /><br/>STD
 </td>
