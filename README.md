@@ -69,10 +69,10 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
   <table class="rapidfire-table">
     <tr>
       <td>
-        <ul class="rapidfire-list">
-          <li>🛠️ I'm currently working on this page 😜</li>
-          <li>🌱 I'm currently learning QA Manual & Automation and Salesforce course at John Bryce.</li>
-          <li>⚡ Fun fact: Like Camputer 🏄 and gaming PS 🎮</li>
+       <ul class="rapidfire-list">
+            <li>🛠️ I'm currently working on this page 😜</li>
+            <li>🌱 I'm currently learning QA Manual & Automation and Salesforce course at John Bryce.</li>
+            <li>⚡ Fun fact: Like Computers 🖥️ and gaming 🎮</li>
         </ul>
       </td>
       <td></td>
