@@ -64,7 +64,7 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
       </td>
       <!-- Email Icon -->
       <td>
-        <a href="mailto:betito.yovel270@gmil.com" target="_blank"   text=שלום%20יובל%20בטיטו%2C%20אשמח%20לראות%20את%20הקו״ח%20שלך%20לתפקיד..." target="_blank">   
+        <a href="mailto:betito.yovel270@gmil.com" target="_blank"   text=שלום%20יובל%20בטיטו%2C%20אשמח%20לראות%20את%20הקו״ח%20שלך%20לתפקיד...">   
           <img src="https://i.postimg.cc/t4gBDsgY/images.png" alt="Email Icon" width="110">
         </a>
       </td>
