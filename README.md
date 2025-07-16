@@ -49,8 +49,9 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
 <strong>full picture</strong> – from <strong>code</strong> to 
 <strong>user experience</strong>.
 </p>
-</li>
-</div>
+<li>📄Job offer Click Icon WhatsApp</li>
+
+?</div>
 </body>
 </html>
 <h2>Languages and Tools</h2>
