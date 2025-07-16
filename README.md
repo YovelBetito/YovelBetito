@@ -51,7 +51,7 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
   
 ---
 📄
-  <b>Job offer for me? Click Icon WhatsApp Or Email and Telephone!</b>
+  <b>Job offer for me? Click Icon WhatsApp Or Email and Telephone NOW! i Waiting... THX About the opportunity!</b>
 
 <!-- Floating Icons -->
 <div id="floating-icons">
