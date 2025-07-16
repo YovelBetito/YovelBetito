@@ -1,5 +1,5 @@
 # Hey 👋, I'm Yovel Betito
-[2025-07-16-15-10-12.png](https://postimg.cc/BXrzskbP)
+[![2025-07-16-15-10-12.png](https://i.postimg.cc/qvqHcddw/2025-07-16-15-10-12.png)](https://postimg.cc/BXrzskbP)
 
 [![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)](https://github.com/YovelBetito)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yovel_betito/)
