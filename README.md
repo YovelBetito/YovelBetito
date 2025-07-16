@@ -45,17 +45,19 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
 <strong>user experience</strong>.
 </p>
 <li>📄<b>Job offer for me? Click Icon WhatsApp!</b></li>
-<!-- WhatsApp Floating Button (Center Right Fixed) -->
-<a href="https://wa.me/972505885070?text=שלום%20יובל%20בטיטו%2C%20אשמח%20לראות%20את%20הקו״ח%20שלך%20לתפקיד..." 
-   target="_blank" id="whatsapp-float">
-  <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp">
-</a>
-<a href="mailto:betito.yovel270@gmil.com" target="_blank">
-  <img src="https://i.postimg.cc/6qKr5BdB/email-icon.jpg" alt="Email Icon" width="40" height="40">
-</a>
+<!-- WhatsApp Floating Button (Center Right Fixed) --> 
+  <!-- Floating Icons -->
+<div id="floating-icons">
+  <!-- WhatsApp Icon -->
+  <a href="https://wa.me/972505885070?text=שלום%20יובל%20בטיטו%2C%20אשמח%20לראות%20את%20הקו״ח%20שלך%20לתפקיד..." 
+     target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp">
+  </a>
+  <!-- Email Icon -->
+  <a href="mailto:betito.yovel270@gmil.com" target="_blank">
+    <img src="https://i.postimg.cc/6qKr5BdB/email-icon.jpg" alt="Email Icon">
+  </a>
 </div>
-</body>
-</html>
 <h2>Languages and Tools</h2>
 
 <div align="center">
