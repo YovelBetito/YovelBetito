@@ -75,24 +75,3 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
    target="_blank" id="whatsapp-float">
   <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp">
 </a>
-
-<style>
-  #whatsapp-float {
-    position: fixed;
-    top: 50%;
-    right: 10px;
-    transform: translateY(-50%);
-    z-index: 1000;
-    cursor: pointer;
-    transition: transform 0.3s ease;
-  }
-
-  #whatsapp-float:hover {
-    transform: translateY(-50%) scale(1.1);
-  }
-
-  #whatsapp-float img {
-    width: 60px;
-    height: 60px;
-  }
-</style>
