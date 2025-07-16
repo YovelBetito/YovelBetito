@@ -70,3 +70,31 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
     </tr>
   </table>
 </div>  
+
+<!-- WhatsApp Floating Button -->
+<a href="https://wa.me/972505885070?text= לתפקיד .שלום יובל, אשמח לקבל את קורות החיים שלך 🙏" target="_blank" id="whatsapp-button">
+  <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp">
+</a>
+
+<!-- CSS Style -->
+<style>
+  #whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    background-color: transparent;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    transition: transform 0.3s;
+  }
+
+  #whatsapp-button:hover {
+    transform: scale(1.1);
+  }
+
+  #whatsapp-button img {
+    width: 55px;
+    height: 55px;
+  }
+</style>
