@@ -23,7 +23,8 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
   </td>
   <td></td> <!-- תא ריק בצד ימין -->
 </tr>
-❓<b><u>Why did i Choose QA?</b></u> </table>
+---
+❓<b><u>Why did i Choose QA?</b></u>
 <li>I chose QA because I see it as the perfect combination of critical thinking, technical ability, and the opportunity to play a key role in delivering a high-quality product. I’ve always had a sharp eye for detail, enjoyed identifying issues, and asking the questions others tend to overlook – qualities that align perfectly with software testing.
 
 In addition, QA offers a great entry point into the tech world, even without a deep programming background, while still allowing room for growth into automation, DevOps, or even product management.
