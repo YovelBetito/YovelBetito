@@ -49,9 +49,8 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
 <a href="https://wa.me/972505885070?text=שלום%20יובל%20בטיטו%2C%20אשמח%20לראות%20את%20הקו״ח%20שלך%20לתפקיד..." 
    target="_blank" id="whatsapp-float">
   <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp">
-<a href="mailto:betito.yovel270@gmil.com" target="_blank">
-  <img src="https://i.postimg.cc/nzKrXcB1/download-1.jpg"  
-<i class="fas fa-envelope"></i>
+  <a href="mailto:betito.yovel270@gmil.com" target="_blank">
+  <img src="download-1.jpg" alt="Email Icon" width="40" height="40">
 </a>
 </a>
 </div>
