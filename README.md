@@ -50,7 +50,7 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
 </p>
   
 ---
-<li>📄<b>Job offer for me? Click Icon WhatsApp Or Email and Telephone!</b></li>
+<li>📄<b> Job offer for me? Click Icon WhatsApp Or Email and Telephone!</b></li>
 
 <!-- Floating Icons -->
 <div id="floating-icons">
