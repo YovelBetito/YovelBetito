@@ -24,10 +24,30 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
   <td></td> <!-- תא ריק בצד ימין -->
 </tr>
 ❓<b><u>Why did i Choose QA?</b></u>
-<li>I chose QA because I see it as the perfect combination of critical thinking, technical ability, and the opportunity to play a key role in delivering a high-quality product. I’ve always had a sharp eye for detail, enjoyed identifying issues, and asking the questions others tend to overlook – qualities that align perfectly with software testing.
+<li><p><strong>Why did I choose QA (Quality Assurance)?</strong></p>
 
-In addition, QA offers a great entry point into the tech world, even without a deep programming background, while still allowing room for growth into automation, DevOps, or even product management.
-I'm currently studying both manual and automation QA, as well as Salesforce testing, with the goal of expanding my skill set and becoming a tester who understands the full picture – from code to user experience.</li>
+<p>
+I chose <strong>QA</strong> because I see it as the perfect combination of 
+<strong>critical thinking</strong>, <strong>technical ability</strong>, 
+and the opportunity to play a <strong>key role</strong> in delivering a 
+<strong>high-quality product</strong>. I’ve always had a 
+<strong>sharp eye for detail</strong>, enjoyed <strong>identifying issues</strong>, 
+and <strong>asking the questions others tend to overlook</strong> – 
+qualities that align perfectly with <strong>software testing</strong>.
+</p>
+
+<p>
+In addition, QA offers a great <strong>entry point into the tech world</strong>, 
+even without a deep <strong>programming background</strong>, while still 
+allowing room for growth into <strong>automation</strong>, <strong>DevOps</strong>, 
+or even <strong>product management</strong>.<br>
+I'm currently studying both <strong>manual and automation QA</strong>, as well as 
+<strong>Salesforce testing</strong>, with the goal of expanding my 
+<strong>skill set</strong> and becoming a tester who understands the 
+<strong>full picture</strong> – from <strong>code</strong> to 
+<strong>user experience</strong>.
+</p>
+</li>
 </div>
 </body>
 </html>
