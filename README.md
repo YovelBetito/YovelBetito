@@ -42,7 +42,7 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="JIRA" /><br/>JIRA
       </td>
       <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/128/857/857681.png" height="60" alt="STR" /><br/>STR
+        <img src="https://i.postimg.cc/ryQpgDcS/download-1.png" height="60" alt="STR" /><br/>STR
       </td>
       <td align="center" width="120">
         <img src="https://cdn-icons-png.flaticon.com/128/3039/3039381.png" height="60" alt="PM" /><br/>PM
