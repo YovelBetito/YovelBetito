@@ -17,18 +17,6 @@ Former police detective, now passionate about tech, testing, and development.
 Interested in drones 🚁, automation ⚙️, and coding 💻.
 
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Rapidfire Box</title>
-  <style>
-    .rapidfire-container {
-      max-width: 600px;
-      margin: 40px auto;
-      font-family: Arial, sans-serif;
-    }
-    <tr>
       <td>
        <ul class="rapidfire-list">
             <li>🛠️ I'm currently working on this page 😜</li>
