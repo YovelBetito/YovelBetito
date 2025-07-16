@@ -17,14 +17,17 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
   <td>
     <ul class="rapidfire-list">
       <li>🛠️ I'm currently working on this page 😜</li>
-      <li>🌱 I'm currently learning QA Manual & Automation and Salesforce course at John Bryce.</li>
+      <li>🌱 I'm currently learning QA Manual & Automation and Salesforce.</li>
       <li>⚡ Fun fact: Like Computers 🖥️ and gaming 🎮</li>
     </ul>
   </td>
   <td></td> <!-- תא ריק בצד ימין -->
 </tr>
+### 🙃 Why did i Choose QA? </table>
+<li>I chose QA because I see it as the perfect combination of critical thinking, technical ability, and the opportunity to play a key role in delivering a high-quality product. I’ve always had a sharp eye for detail, enjoyed identifying issues, and asking the questions others tend to overlook – qualities that align perfectly with software testing.
 
-  </table>
+In addition, QA offers a great entry point into the tech world, even without a deep programming background, while still allowing room for growth into automation, DevOps, or even product management.
+I'm currently studying both manual and automation QA, as well as Salesforce testing, with the goal of expanding my skill set and becoming a tester who understands the full picture – from code to user experience.</li>
 </div>
 </body>
 </html>
