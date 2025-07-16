@@ -17,6 +17,77 @@ Former police detective, now passionate about tech, testing, and development.
 Interested in drones 🚁, automation ⚙️, and coding 💻.
 
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Rapidfire Box</title>
+  <style>
+    .rapidfire-container {
+      max-width: 600px;
+      margin: 40px auto;
+      font-family: Arial, sans-serif;
+    }
+
+    .rapidfire-title {
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+    }
+
+    .rapidfire-table {
+      width: 100%;
+      border: 1px solid #ddd;
+      border-collapse: collapse;
+    }
+
+    .rapidfire-table td {
+      border: 1px solid #ddd;
+      padding: 15px;
+      vertical-align: top;
+    }
+
+    .rapidfire-list {
+      list-style: none;
+      padding-left: 0;
+      margin: 0;
+    }
+
+    .rapidfire-list li {
+      margin-bottom: 15px;
+      font-size: 15px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="rapidfire-container">
+  <div class="rapidfire-title">Rapidfire</div>
+
+  <table class="rapidfire-table">
+    <tr>
+      <td>
+        <ul class="rapidfire-list">
+          <li>🛠️ I'm currently working on this page 😜</li>
+          <li>🌱 I'm currently learning QA Manual & Automation and Salesforce course at John Bryce.</li>
+          <li>⚡ Fun fact: Like Camputer 🏄 and gaming PS 🎮</li>
+        </ul>
+      </td>
+      <td></td>
+    </tr>
+  </table>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+---
 <h2>Languages and Tools</h2>
 
 <div align="center">
