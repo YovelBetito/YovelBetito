@@ -51,7 +51,7 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
 
 
 ---
-<h4><u>❓Why me for the QA position?</u></h4>
+<h3><u>❓Why me for the QA position?</u></h3>
 <p>
 I come from a <strong>technical background</strong> with proven experience working with <strong>advanced technological systems</strong>, with a strong emphasis on <strong>attention to detail</strong> and responsibility for the <strong>precise operation</strong> of critical tools.  
 In my previous role as an <strong>Intelligence Detective</strong> in the police, I operated <strong>advanced technologies</strong>, including <strong>drones</strong> and <strong>sensitive operational equipment</strong>.  
