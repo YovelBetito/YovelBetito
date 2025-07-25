@@ -48,10 +48,20 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
 <strong>full picture</strong> – from <strong>code</strong> to 
 <strong>user experience</strong>.
 </p>
-  
+
+
+---
+<h4><u>❓Why me for the QA position?</u></h4>
+<p>
+I come from a <strong>technical background</strong> with proven experience working with <strong>advanced technological systems</strong>, with a strong emphasis on <strong>attention to detail</strong> and responsibility for the <strong>precise operation</strong> of critical tools.  
+In my previous role as an <strong>Intelligence Detective</strong> in the police, I operated <strong>advanced technologies</strong>, including <strong>drones</strong> and <strong>sensitive operational equipment</strong>.  
+This role required <strong>critical thinking</strong>, <strong>adherence to protocols</strong>, <strong>systematic documentation</strong>, and the ability to <strong>identify malfunctions</strong> – all of which are essential qualities in the field of <strong>software testing</strong>.  
+I believe that my background, along with my <strong>commitment</strong> and <strong>motivation</strong> to <strong>precision</strong> and <strong>continuous learning</strong>, makes me an ideal candidate to join and <strong>excel</strong> the company <strong>together</strong>.
+</p>
+
 ---
 📄
-  <b>Job offer for me? Click Icon WhatsApp Or Email and Telephone NOW! i Waiting... THX About the opportunity!</b>
+  <b>Job offer for me? Click Icon WhatsApp and Telephone NOW! i Waiting... THX About the opportunity!</b>
 
 <!-- Floating Icons -->
 <div id="floating-icons">
@@ -67,12 +77,6 @@ I'm currently studying both <strong>manual and automation QA</strong>, as well a
       <td>
         <a href="mailto:betito.yovel270@gmil.com" target="_blank"   text=שלום%20יובל%20בטיטו%2C%20אשמח%20לראות%20את%20הקו״ח%20שלך%20לתפקיד...">   
           <img src="https://i.postimg.cc/t4gBDsgY/images.png" alt="Email Icon" width="110">
-        </a>
-      </td>
-      <!-- Telephone Icon -->
-      <td>
-        <a href="tel:+972505885070">
-          <img src="https://img.icons8.com/color/96/phone.png" alt="Telephone Icon" width="95">
         </a>
       </td>
     </tr>
