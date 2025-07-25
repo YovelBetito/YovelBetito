@@ -61,7 +61,7 @@ I believe that my background, along with my <strong>commitment</strong> and <str
 
 ---
 📄
-  <b>Job offer for me? Click Icon WhatsApp and Telephone NOW! i Waiting... THX About the opportunity!</b>
+  <b>Job offer for me? Click Icon WhatsApp and Email NOW! i Waiting... THX About the opportunity!</b>
 
 <!-- Floating Icons -->
 <div id="floating-icons">
