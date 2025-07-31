@@ -19,7 +19,7 @@ Interested in drones 🚁, automation ⚙️, and coding 💻.
     <ul class="rapidfire-list">
       <li>🛠️ I'm currently working on this page 😜</li>
       <li>🌱 I'm currently learning QA Manual & Automation and Salesforce.</li>
-      <li>⚡ Fun fact: Like Computers 🖥️ and gaming 🎮</li>
+      <li>⚡ Fun fact: Like Computers 🖥️ and To fly drones 🚁</li>
     </ul>
   </td>
   <td></td> <!-- תא ריק בצד ימין -->
